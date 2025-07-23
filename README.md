@@ -1,7 +1,6 @@
 # Slideshare-Downloader
 
 ![Python](https://img.shields.io/badge/Python-3.7+-blue.svg)
-![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 
 Slideshare Downloader é uma ferramenta de linha de comando em Python para baixar apresentações do [SlideShare](https://slideshare.net/) diretamente como arquivos PDF de alta qualidade.
 
